@@ -1,0 +1,72 @@
+html{
+    background-color: #8f5e00;
+    font-family: 'Georgia';
+}
+
+body{
+    width: 800px;
+    margin: 0 auto;
+}
+
+header{
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1{
+    width: 100px;
+    margin: 0 auto;
+}
+
+button{
+    background-color: #5375ff;
+    border-radius: 10px;
+    padding: 10px;
+    border-width: 0px;
+    color: #ffffff;
+}
+
+#stop{
+    background-color: #e95200;
+}
+
+#buttons{
+    height: 60px;
+    width: 450px;
+    margin: 0 auto 10px auto;
+}
+
+#cards{
+    float: left;
+    display: block;
+}
+
+#messages{
+    float: left;
+    margin: 200px 0 0 0;
+}
+
+#userTotal{
+    display: block;
+    margin: 120px 0 0 0;
+    float: none;
+}
+
+.userCard{
+    padding: 50px 10px;
+    width: 60px;
+    float: left;
+    margin: 0 10px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.bankCard{
+    color: #ffffff;
+    padding: 0px 10px 50px;
+    width: 60px;
+    float: left;
+    margin: 0 10px;
+    background-color: #e95200;
+    border-radius: 10px;
+}
